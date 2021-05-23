@@ -1,0 +1,50 @@
+ For Data Structures MCT172
+Q1.Write a program to check weather a given number is the largest or equal
+Q2.Practical 2 Write a binary search program using  C language
+Q3.Write a program  to implement the of  quicksort using  C
+Q4. Write a program  to implement the of  merge _sort using  C
+
+LINKEDLIST
+
+Q1. Linked List: Create and display Singly Linked List:
+Write a C program to implement Singly linked list data structure. C program to create a linked list and display elements of linked list.
+
+https://www.w3resource.com/c-programming-exercises/linked_list/c-linked_list-exercise-1.php
+
+
+
+Q6-Q7:
+https://codeforwin.org/2015/09/c-program-to-insert-node-at-end-of-singly-linked-list.html
+Q6.Create linked_list
+Insert the new node at the beginning of the linkedlist
+Q7.Create linked_list
+Insert the new node at the end of the linkedlist
+Q8.
+Write a C program to create a singly linked list of n nodes and delete the first node or beginning node of the linked list. How to delete first node from singly linked list in C language. Algorithm to delete first node from singly linked list in C. Steps to delete first node from singly linked list.
+
+Wite C program to insert node at specific location
+in the singlelist
+
+Write C PROGRAM to delete a node from the beginning of the signle linkedlist
+
+Write C program to delete a node from the end of the single list
+
+https://www.w3resource.com/c-programming-exercises/linked_list/c-linked_list-exercise-25.php
+
+C program that uses stack operations to convert a given infix expression into its postFix equivalent implement the stack using an array
+
+write a c program that uses stack operations to evaluate postfix expression
+
+
+<  > ^
+A+B+C+D
+(A+B)+(C+D)
+ABC*DEF^/G*-H*+
+5,9,8,+,+,6,*,+,7,-,*
+5,6,2,+,*,12,4,/,-
+
+https://www.javatpoint.com/data-structure-mcq
+
+
+wite a program in c of that creates a binary search and n number
+of nodes  and the value of n must be asked by the user

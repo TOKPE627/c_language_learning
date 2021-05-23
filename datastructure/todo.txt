@@ -48,3 +48,5 @@ https://www.javatpoint.com/data-structure-mcq
 
 wite a program in c of that creates a binary search and n number
 of nodes  and the value of n must be asked by the user
+
+https://www.youtube.com/watch?v=2gbYQIXXpi0
